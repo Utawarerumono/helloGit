@@ -1,9 +1,14 @@
 
 public class helloWorld 
 {
-//test
+
+	public static void func()
+	{
+		System.out.print("Alive!\n");
+	}
 	public static void main(String[] args) 
 	{
-		System.out.print("Hello, World!");
+		func();
+		System.out.print("Hello, git!");
 	}
 }
