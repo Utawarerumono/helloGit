@@ -15,7 +15,5 @@ public class helloWorld
 		func();
 		System.out.print("Hello, git!");
 	}
-	/*
-	comment
-	*/
+
 }
